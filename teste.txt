@@ -1,0 +1,84 @@
+#EXTM3U
+#EXTINF:-1 tvg-01
+https://s2.tntendirect.com/tf1/live/chunks.m3u8?nimblesessionid=3834194&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yLzIwMjIgODo1NTo1MCBQTSZoYXNoX3ZhbHVlPTZkR3RQK0JjWGlvK2FVTXJqQ2tRNHc9PSZ2YWxpZG1pbnV0ZXM9MzA=
+#EXTINF:-1 tvg-02
+https://s4.tntendirect.com/france2/live/chunks.m3u8?nimblesessionid=33553182&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yLzIwMjIgODo1Nzo1NyBQTSZoYXNoX3ZhbHVlPStOQ0V6eWdrM1ZXcWJ5ZkNXbkczcXc9PSZ2YWxpZG1pbnV0ZXM9MzA=
+#EXTINF:-1 tvg-03
+https://s2.tntendirect.com/france3/live/chunks.m3u8?nimblesessionid=3834438&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yLzIwMjIgODo1ODo0MSBQTSZoYXNoX3ZhbHVlPSs3c0pLSlJranVDS2UxK1dsVUpmaGc9PSZ2YWxpZG1pbnV0ZXM9MzA=
+#EXTINF:-1 tvg-04
+https://s4.tntendirect.com/france5/live/chunks.m3u8?nimblesessionid=33553708&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yLzIwMjIgOTowMDoxMSBQTSZoYXNoX3ZhbHVlPVh3c3lUUkpVWXZId211enBwbGJLS1E9PSZ2YWxpZG1pbnV0ZXM9MzA=
+#EXTINF:-1 tvg-05
+https://s4.tntendirect.com/m6/live/chunks.m3u8?nimblesessionid=33553888&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yLzIwMjIgOTowMDo1NSBQTSZoYXNoX3ZhbHVlPU1wQjI3MDN5K3NsaDUzZ2wrK3haaWc9PSZ2YWxpZG1pbnV0ZXM9MzA=
+#EXTINF:-1 tvg-06
+https://s2.tntendirect.com/arte/live/chunks.m3u8?nimblesessionid=3834686&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yLzIwMjIgOTowMTozMSBQTSZoYXNoX3ZhbHVlPVZBT3lxUGpLK2ZBdGI0WUxnc2gxTmc9PSZ2YWxpZG1pbnV0ZXM9MzA=
+#EXTINF:-1 tvg-07
+https://s2.tntendirect.com/d8/live/chunks.m3u8?nimblesessionid=3834741&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yLzIwMjIgOTowMjowNiBQTSZoYXNoX3ZhbHVlPUZoVjREZHB2ai9ZSkN4TFFQZmVDbFE9PSZ2YWxpZG1pbnV0ZXM9MzA=
+#EXTINF:-1 tvg-08
+https://s4.tntendirect.com/w9/live/chunks.m3u8?nimblesessionid=33554287&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yLzIwMjIgOTowMjozNiBQTSZoYXNoX3ZhbHVlPWllY1ZzR0hUOUxRL00rM2JMbXhlWmc9PSZ2YWxpZG1pbnV0ZXM9MzA=
+#EXTINF:-1 tvg-09
+https://s4.tntendirect.com/tmc/live/chunks.m3u8?nimblesessionid=33554428&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yLzIwMjIgOTowMzoxMiBQTSZoYXNoX3ZhbHVlPVYvMWdNMlpoalhuN3dqWi9JY2VVRmc9PSZ2YWxpZG1pbnV0ZXM9MzA=
+#EXTINF:-1 tvg-10
+https://s2.tntendirect.com/nt1/live/chunks.m3u8?nimblesessionid=3834903&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yLzIwMjIgOTowMzo1MiBQTSZoYXNoX3ZhbHVlPXhRVzMrZHdvZFhSS3ZVZWZMUkF2TkE9PSZ2YWxpZG1pbnV0ZXM9MzA=
+#EXTINF:-1 tvg-11
+https://s4.tntendirect.com/nrj12/live/chunks.m3u8?nimblesessionid=33554715&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yLzIwMjIgOTowNDoyNCBQTSZoYXNoX3ZhbHVlPXBtN2xVcjhCSFpjbFhIQWJNTDNPbWc9PSZ2YWxpZG1pbnV0ZXM9MzA=
+#EXTINF:-1 tvg-12
+https://s4.tntendirect.com/bmftv/live/chunks.m3u8?nimblesessionid=33554888&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yLzIwMjIgOTowNToxMCBQTSZoYXNoX3ZhbHVlPUxrTE1Yb21JY1ArblFXRjNrSDB3Y3c9PSZ2YWxpZG1pbnV0ZXM9MzA=
+#EXTINF:-1 tvg-13
+https://s4.tntendirect.com/d17/live/chunks.m3u8?nimblesessionid=33555011&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yLzIwMjIgOTowNTo0MiBQTSZoYXNoX3ZhbHVlPUVjSGlJcC9QbU9XM1UvTHM3NDRGOHc9PSZ2YWxpZG1pbnV0ZXM9MzA=
+#EXTINF:-1 tvg-14
+https://s4.tntendirect.com/hd1/live/chunks.m3u8?nimblesessionid=33555140&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yLzIwMjIgOTowNjoxOCBQTSZoYXNoX3ZhbHVlPUU0Y2tOeUV3Q2U0QlovUGxIeUFPZHc9PSZ2YWxpZG1pbnV0ZXM9MzA=
+#EXTINF:-1 tvg-15
+https://s4.tntendirect.com/lequipe21/live/chunks.m3u8?nimblesessionid=33555267&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yLzIwMjIgOTowNjo1MSBQTSZoYXNoX3ZhbHVlPTRMMUNzeUJtWHN0clp5VUtxUUdqUmc9PSZ2YWxpZG1pbnV0ZXM9MzA=
+#EXTINF:-1 tvg-16
+https://s4.tntendirect.com/6ter/live/chunks.m3u8?nimblesessionid=33555404&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yLzIwMjIgOTowNzoyNSBQTSZoYXNoX3ZhbHVlPUliaVl1dTlXVjliaFJ2SnF4cURIRmc9PSZ2YWxpZG1pbnV0ZXM9MzA=
+#EXTINF:-1 tvg-17
+https://s2.tntendirect.com/rmcdecouverte/live/chunks.m3u8?nimblesessionid=3835242&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yLzIwMjIgOTowNzo1NyBQTSZoYXNoX3ZhbHVlPU53V2FYbno0dktHMis4OGRjOFFTY3c9PSZ2YWxpZG1pbnV0ZXM9MzA=
+#EXTINF:-1 tvg-18
+https://s4.tntendirect.com/cherie25/live/chunks.m3u8?nimblesessionid=33555624&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yLzIwMjIgOTowODoyNSBQTSZoYXNoX3ZhbHVlPTBBTmFTdmt5VW5LWnhLcHlGb3BXL1E9PSZ2YWxpZG1pbnV0ZXM9MzA=
+#EXTINF:-1 tvg-19
+https://edge-aws.aovivotv.xyz/hls/s:51.15.40.23/hbopop_ce09b127_c1236ef74f8501af9c452d0851ce3882602d2d07/playlist.m3u8?jsf=YTozOntpOjA7czozODoiMjAwMTo4MTg6ZWIxMDoxODAwOmE1YzI6MzFkZTo1YTE3OmNhYmEiO2k6MTtzOjExNToiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwMi4wLjUwMDUuNjMgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTY1NDIwNDIwMjt9
+#EXTINF:-1 tvg-20
+https://edge-aws.aovivotv.xyz/hls/s:51.15.52.211/hbo_63266754_57e3e3a77a00949d42ec1c881f9c4f06357ebf27/playlist.m3u8?jsf=YTozOntpOjA7czozODoiMjAwMTo4MTg6ZWIxMDoxODAwOmE1YzI6MzFkZTo1YTE3OmNhYmEiO2k6MTtzOjExNToiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwMi4wLjUwMDUuNjMgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTY1NDIwNDMzODt9
+#EXTINF:-1 tvg-21	
+https://edge-aws.aovivotv.xyz/hls/s:51.15.41.121/cinemax_22d200f8_e2bd6ff790e553ff559f0c290ea86a44dde91fb5/playlist.m3u8?jsf=YTozOntpOjA7czozODoiMjAwMTo4MTg6ZWIxMDoxODAwOmE1YzI6MzFkZTo1YTE3OmNhYmEiO2k6MTtzOjExNToiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwMi4wLjUwMDUuNjMgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTY1NDIwNDQ5MTt9
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
